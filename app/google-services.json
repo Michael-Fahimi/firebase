@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "60910897567",
+    "project_id": "pokemanapp-2fd90",
+    "storage_bucket": "pokemanapp-2fd90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60910897567:android:3a0f5f2e5f53923c8295aa",
+        "android_client_info": {
+          "package_name": "com.example.firebasenotifpermission"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zq2qLFLo5JI4IOKC9i6U4n-PMtEpSgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60910897567:android:997f9e1829a2ed9e8295aa",
+        "android_client_info": {
+          "package_name": "com.pineneedle.pokemonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5zq2qLFLo5JI4IOKC9i6U4n-PMtEpSgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
